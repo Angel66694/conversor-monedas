@@ -24,7 +24,7 @@ Si decides clonar el repositorio desde GitHub, puedes usar el siguiente comando 
 
 ### bash
 Copiar código
-git clone https://github.com/tu-usuario/convertidor-divisas-temperaturas.git
+git clone[ https://github.com/Angel66694/conversor-monedas]
 Abrir el Proyecto en IntelliJ IDEA:
 Abre IntelliJ IDEA y selecciona la opción para abrir un proyecto existente. Navega hasta la ubicación donde clonaste el repositorio y selecciona la carpeta del proyecto para abrirlo en IntelliJ.
 
