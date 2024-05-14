@@ -2,7 +2,7 @@
 
 # Convertidor de Divisas y Temperaturas
 
-![Logo del Proyecto](URL_DEL_LOGO)
+![Logo del Proyecto]([URL_DEL_LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-etsvr&psig=AOvVaw3TYti4AeZ_2KzBcbfkFxK6&ust=1715735908201000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDtqL78i4YDFQAAAAAdAAAAABAS))
 
 URL https://github.com/Angel66694/conversor-monedas
 
