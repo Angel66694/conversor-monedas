@@ -66,10 +66,6 @@ Convertidor de temperatura:
 [![temperatura.png](https://i.postimg.cc/rF9TWcHP/temperatura.png)](https://postimg.cc/2V3gNprQ)
 =======
 
-## Vista del proyecto:
-
-
-
 
 ## Tecnologías Utilizadas
 
