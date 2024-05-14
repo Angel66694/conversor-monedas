@@ -24,7 +24,7 @@ Si decides clonar el repositorio desde GitHub, puedes usar el siguiente comando 
 
 ### bash
 Copiar código
-git clone[ https://github.com/Angel66694/conversor-monedas]
+git clone[ https://github.com/Angel66694/conversor-monedas/]
 Abrir el Proyecto en IntelliJ IDEA:
 Abre IntelliJ IDEA y selecciona la opción para abrir un proyecto existente. Navega hasta la ubicación donde clonaste el repositorio y selecciona la carpeta del proyecto para abrirlo en IntelliJ.
 
@@ -89,8 +89,6 @@ API utilizada para obtener las tasas de cambio en tiempo real necesarias para la
 El proyecto se desarrolló como parte del desafío de conversor de divisas de AluraLatam, una plataforma de educación en línea que ofrece cursos de programación y desarrollo de software.
 
 
-
-
 Contribuciones al Proyecto
 Si deseas contribuir al proyecto, puedes hacer lo siguiente:
 
@@ -104,31 +102,3 @@ Para contribuir, puedes hacer un fork del repositorio en GitHub, realizar tus ca
 
 Este documento proporciona una guía completa para la instalación, ejecución y contribución al proyecto Convertidor de Divisas y Temperaturas, detallando sus funcionalidades, arquitectura, tecnologías utilizadas y pasos prácticos para comenzar a trabajar con él.
 
-
->>>>>>> 6cb7a7038e8c0446f944fe0080a0c75624ab6783
-
-
-Conversión de Temperaturas:
-![Conversión de Temperaturas](ruta/imagen3.png)
-
-
-Tasa de Cambio Utilizada:
-![Tasa de Cambio](ruta/imagen4.png)
-
-
-Video Demostrativo
-[Enlace al Video Demostrativo](ruta/video_demo.mp4)
-
-
-Contribuciones al Proyecto
-Si deseas contribuir al proyecto, puedes hacer lo siguiente:
-
-Realizar mejoras en la interfaz de usuario.
-Agregar nuevas funcionalidades, como conversiones de unidades adicionales.
-Optimizar el código para mejorar la eficiencia y la precisión en las conversiones.
-Corregir errores o realizar pruebas adicionales para garantizar la calidad del programa.
-Para contribuir, puedes hacer un fork del repositorio en GitHub, realizar tus cambios en una rama separada y luego enviar un pull request para que tus cambios sean revisados y fusionados con el proyecto principal.
-
-¡Gracias por tu interés en contribuir al Convertidor de Divisas y Temperaturas!
-
-Este documento proporciona una guía completa para la instalación, ejecución y contribución al proyecto Convertidor de Divisas y Temperaturas, detallando sus funcionalidades, arquitectura, tecnologías utilizadas y pasos prácticos para comenzar a trabajar con él.
