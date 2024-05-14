@@ -1,10 +1,11 @@
 
-Tecnologías Utilizadas
+# **Tecnologías Utilizadas**
 El Convertidor de Divisas y Temperaturas se desarrolló utilizando las siguientes tecnologías:
 
-Java: Lenguaje de programación principal utilizado para la implementación del proyecto.
+## Java: 
+Lenguaje de programación principal utilizado para la implementación del proyecto.
 Spring: Se utilizó el framework Spring para la gestión de dependencias y la implementación de la lógica de negocio.
-IntelliJ IDEA: Entorno de desarrollo integrado (IDE) utilizado para escribir, compilar y depurar el código del proyecto.
+IntelliJ IDEA: Entorno de desarrollo integrado *(IDE)* utilizado para escribir, compilar y depurar el código del proyecto.
 GitHub: Plataforma de alojamiento de código fuente utilizada para el control de versiones y colaboración en el desarrollo del proyecto.
 ExchangeRate-API: API utilizada para obtener las tasas de cambio en tiempo real necesarias para las conversiones de divisas.
 El proyecto se desarrolló como parte del desafío de conversor de divisas de AluraLatam, una plataforma de educación en línea que ofrece cursos de programación y desarrollo de software.
@@ -41,7 +42,7 @@ Aquí se incluyen capturas de pantalla del programa en ejecución y un breve vid
 
 Capturas de Pantalla
 Menú Principal:
-![Menú Principal](ruta/imagen1.png)
+![Menú Principal]()
 
 
 <<<<<<< HEAD
@@ -90,7 +91,7 @@ Aquí se incluyen capturas de pantalla del programa en ejecución y un breve vid
 
 Capturas de Pantalla
 Menú Principal:
-![Menú Principal](ruta/imagen1.png)
+![Menú Principal](C:\Users\strik\OneDrive\Documents\proyecto screenmatch\rest-service\img\menu.png)
 
 
 Conversión de Divisas:
