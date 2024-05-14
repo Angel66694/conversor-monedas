@@ -35,7 +35,27 @@ Busca la línea que dice String apiKey = "TU_API_KEY"; y reemplaza TU_API_KEY co
 ## **Compilar y Ejecutar el Proyecto:**
 Una vez que hayas configurado la API Key, puedes compilar y ejecutar el proyecto desde IntelliJ IDEA. Abre la clase Principal del paquete conversor.Principal y ejecuta el programa para comenzar a utilizar el Convertidor de Divisas y Temperaturas.
 
-Uso del Convertidor
+## ***En caso de tener este problema *(import com.google.gson.Gson;)* a la hora de correr el programa seguir los siguientes pasos:*** 
+
+# Instalación de Gson en IntelliJ
+
+## Paso 1: Abrir las configuraciones del proyecto
+En IntelliJ, haz clic en `File` (Archivo) en la barra de menú, luego selecciona `Project Structure` (Estructura del Proyecto).
+
+## Paso 2: Agregar la dependencia Gson
+En la ventana de configuración del proyecto, haz clic en `Dependencies` (Dependencias) y luego en el botón `+` (más) para agregar una nueva dependencia.
+
+## Paso 3: Buscar Gson en el Repositorio de Maven
+En el cuadro de diálogo que aparece, busca "Gson" en el Repositorio de Maven y selecciona la última versión de Gson que desees agregar a tu proyecto. Luego, haz clic en `OK` para cerrar el cuadro de diálogo.
+
+## Paso 4: Confirmar la adición de la dependencia
+De vuelta en la ventana de configuración del proyecto, asegúrate de que Gson ahora esté listado bajo las dependencias de tu proyecto. Haz clic en `Apply` (Aplicar) y luego en `OK` para cerrar la ventana de configuración del proyecto.
+
+## Paso 7: Sincronizar el proyecto
+volver a pantalla de proyecto e intentar correr de nuevo.
+
+
+## **Uso del Convertidor**
 Una vez que el programa esté en ejecución, podrás utilizar las siguientes funcionalidades:
 
 ## ***Conversión de Divisas:*** 
