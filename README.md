@@ -45,7 +45,7 @@ Menú Principal:
 [![menu.png](https://i.postimg.cc/wTxrrnZC/menu.png)](https://postimg.cc/DmD5Jp26)
 
 
-<<<<<<< HEAD
+<<<<<<<
 Conversión de Divisas:
 [![convertidor.png](https://i.postimg.cc/VLvL9ZfR/convertidor.png)](https://postimg.cc/0bgsPfJM)
 =======
