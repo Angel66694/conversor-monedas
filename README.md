@@ -41,7 +41,7 @@ Capturas de Pantalla y Demostración
 Aquí se incluyen capturas de pantalla del programa en ejecución y un breve video demostrativo para mostrar cómo funciona el Convertidor de Divisas y Temperaturas.
 
 Capturas de Pantalla
-Menú Principal:
+<<<<<<< Menú Principal:
 [![menu.png](https://i.postimg.cc/wTxrrnZC/menu.png)](https://postimg.cc/DmD5Jp26)
 
 
