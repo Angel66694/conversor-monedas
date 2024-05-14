@@ -47,7 +47,7 @@ Menú Principal:
 
 <<<<<<< HEAD
 Conversión de Divisas:
-![Conversión de Divisas](ruta/imagen2.png)
+[![convertidor.png](https://i.postimg.cc/VLvL9ZfR/convertidor.png)](https://postimg.cc/0bgsPfJM)
 =======
 Tecnologías Utilizadas
 El Convertidor de Divisas y Temperaturas se desarrolló utilizando las siguientes tecnologías:
