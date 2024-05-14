@@ -66,6 +66,11 @@ Convertidor de temperatura:
 [![temperatura.png](https://i.postimg.cc/rF9TWcHP/temperatura.png)](https://postimg.cc/2V3gNprQ)
 =======
 
+## Vista del proyecto:
+![Demo del Proyecto](https://github.com/tu-usuario/tu-repositorio/raw/main/img/bandicam%202024-05-13%2000-17-07-178.mp4)
+
+
+
 
 ## Tecnologías Utilizadas
 
