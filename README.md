@@ -67,8 +67,7 @@ Convertidor de temperatura:
 =======
 
 ## Vista del proyecto:
-![Demo del Proyecto](https://github.com/tu-usuario/tu-repositorio/raw/main/img/bandicam%202024-05-13%2000-17-07-178.mp4)
-
+[![Demo del Proyecto](https://i.vimeocdn.com/video/946046997.webp)](https://vimeo.com/946046997)
 
 
 
