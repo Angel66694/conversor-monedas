@@ -42,7 +42,7 @@ Aquí se incluyen capturas de pantalla del programa en ejecución y un breve vid
 
 Capturas de Pantalla
 Menú Principal:
-![Menú Principal]()
+[![menu.png](https://i.postimg.cc/wTxrrnZC/menu.png)](https://postimg.cc/DmD5Jp26)
 ![Uploading convertidor.png…]()
 
 
