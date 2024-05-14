@@ -52,7 +52,7 @@ https://www.exchangerate-api.com/docs/supported-currencies
                 ***Bienvenido a mi convertidor***
                 --------------------------------------------
                 Tipos de cambio mas usados:
-                - MX  - EUR - ARS - BRL
+                - MXN  - EUR - ARS - BRL
                 - CLP - COP - USD - UYI
                 """;
         System.out.println(mensajeBienvenida);
