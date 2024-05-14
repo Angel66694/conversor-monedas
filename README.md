@@ -67,7 +67,7 @@ Convertidor de temperatura:
 =======
 
 ## Vista del proyecto:
-[![Demo del Proyecto](https://i.vimeocdn.com/video/946046997.webp)](https://vimeo.com/946046997)
+
 
 
 
