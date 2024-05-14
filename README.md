@@ -43,7 +43,6 @@ Aquí se incluyen capturas de pantalla del programa en ejecución y un breve vid
 Capturas de Pantalla
 Menú Principal:
 [![menu.png](https://i.postimg.cc/wTxrrnZC/menu.png)](https://postimg.cc/DmD5Jp26)
-![Uploading convertidor.png…]()
 
 
 <<<<<<< HEAD
@@ -92,23 +91,10 @@ Aquí se incluyen capturas de pantalla del programa en ejecución y un breve vid
 
 Capturas de Pantalla
 Menú Principal:
-![Menú Principal](C:\Users\strik\OneDrive\Documents\proyecto screenmatch\rest-service\img\menu.png)
-
-
-Conversión de Divisas:
-![Conversión de Divisas](ruta/imagen2.png)
-
-
-Conversión de Temperaturas:
-![Conversión de Temperaturas](ruta/imagen3.png)
-
-
-Tasa de Cambio Utilizada:
-![Tasa de Cambio](ruta/imagen4.png)
 
 
 Video Demostrativo
-[Enlace al Video Demostrativo](ruta/video_demo.mp4)
+[Enlace al Video Demostrativo](C:\Users\strik\OneDrive\Documents\proyecto screenmatch\rest-service\img\bandicammuestra.mp4)
 
 
 Contribuciones al Proyecto
